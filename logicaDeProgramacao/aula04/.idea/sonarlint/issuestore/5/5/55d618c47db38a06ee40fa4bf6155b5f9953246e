@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¯ŒÁ¬ÿÿÿÿÿ8§½·•Ø2J$beb962f0-2001-4480-9f10-b87f2f275961
+r	java:S106"+Replace this use of System.out by a logger.(šéüýýÿÿÿÿ8©½·•Ø2J$c93eacb9-2930-4705-93c1-3fee46771787
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ˆþ¸øÿÿÿÿ8ª½·•Ø2J$4b90516d-bc51-4bcf-97e9-a5cbb3d58ddd
+r	java:S106"+Replace this use of System.out by a logger.(¹ß€ïúÿÿÿÿ8ª½·•Ø2J$bc88893f-4d41-4767-8195-6825b9d94687
+l
+java:S1481")Remove this unused "soma" local variable.(ˆ“—è8«½·•Ø2J$3edac19b-0447-47f0-97dd-8c0a76cabcd7
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8­½·•Ø2J$c2941e94-5c59-4683-8758-6c6f2d3b967d

@@ -1,0 +1,38 @@
+
+
+java:S1104"UMake resultado a static final constant or non-public and provide accessors if needed.(ı€‚êüÿÿÿÿ8¨­Ğ¾Ø2J$b6303232-5f7b-4b9e-b94e-60f37282478d
+w
+java:S1444"/Make this "public static resultado" field final(ı€‚êüÿÿÿÿ8©­Ğ¾Ø2J$48fce5dc-67c4-4b37-a071-4f6edafd2f92
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(„´ºµüÿÿÿÿ8ã­Ğ¾Ø2J$1cfa7b42-5284-4be4-9767-cded25ee49da
+~	java:S125"<This block of commented-out lines of code should be removed.(õ»çŞ8ã­Ğ¾Ø2J$985fb0f3-24d8-469a-9b5a-a45bc90e6157
+m	java:S106"+Replace this use of System.out by a logger.(ÔÄ¾Û8å­Ğ¾Ø2J$fc781302-53e9-4561-8322-5759a794f330
+r	java:S106"+Replace this use of System.out by a logger.(şæ£ñşÿÿÿÿ8å­Ğ¾Ø2J$ed79558e-6a64-49e6-9cfe-9e198ca12c83
+r	java:S106"+Replace this use of System.out by a logger.(É ¼ıÿÿÿÿ8å­Ğ¾Ø2J$6198c2af-d840-4123-b8b6-92b1e1e6f90e
+r	java:S106"+Replace this use of System.out by a logger.(æ¾ïÔşÿÿÿÿ8å­Ğ¾Ø2J$0af5e49a-515a-4937-8141-f18624b9e843
+m	java:S106"+Replace this use of System.out by a logger.(‰¨”8å­Ğ¾Ø2J$056993ce-aa66-4c11-9195-e4c7644b0497
+r	java:S106"+Replace this use of System.out by a logger.(ÅØ‘´ûÿÿÿÿ8æ­Ğ¾Ø2J$5249a5c6-63d4-46b0-9a42-f046d1d0e07f
+m	java:S106"+Replace this use of System.out by a logger.(§‰ «8æ­Ğ¾Ø2J$2cb90a0a-fd86-4d23-b085-6dba3831c6b3
+l	java:S106"+Replace this use of System.out by a logger.(‹Ìöx8æ­Ğ¾Ø2J$4ff921e3-81c1-4606-8d26-c5778d98e88e
+r	java:S106"+Replace this use of System.out by a logger.(×±Ø¥ûÿÿÿÿ8æ­Ğ¾Ø2J$5c5a9088-bb06-40d1-95ce-850d7e5ecd0b
+r	java:S106"+Replace this use of System.out by a logger.(Ö¯Ñßùÿÿÿÿ8æ­Ğ¾Ø2J$75b37b89-b8f8-4fc8-94a2-36a1b7eb45c1
+}	java:S125"<This block of commented-out lines of code should be removed.(Å°8ç­Ğ¾Ø2J$4aa46b0f-96be-4e9c-a6c3-c877a6b54a23
+l	java:S106"+Replace this use of System.out by a logger.(ÆÕ‰8ç­Ğ¾Ø2J$6000e004-b077-4427-a3b6-125625f9a9ef
+k	java:S106!"+Replace this use of System.out by a logger.(¡@8è­Ğ¾Ø2J$483067b1-497c-43ce-9082-f5657dcd8e8f
+m	java:S106%"+Replace this use of System.out by a logger.(‡Ç›ñ8è­Ğ¾Ø2J$b0aa7516-b548-48cf-a329-4c6f2e817a88
+}	java:S125+"<This block of commented-out lines of code should be removed.(Æâ–h8é­Ğ¾Ø2J$b1bc4297-7683-466a-9e92-5f2fc661a00f
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(Ï•‹Õüÿÿÿÿ8é­Ğ¾Ø2J$e00dc7e2-2080-4aed-b81d-3a49f3750f5b
+l
+java:S1659A"$Declare "valor2" on a separate line.(‡ù„‚ûÿÿÿÿ8ë­Ğ¾Ø2J$728d9dc4-47de-4ccc-aa46-08620e379822
+i	java:S131G""Add a default case to this switch.(†²·¹úÿÿÿÿ8í­Ğ¾Ø2J$6def03c4-588c-4d16-9b6a-2c7f05cbe3df
+r	java:S106I"+Replace this use of System.out by a logger.(‰õØºûÿÿÿÿ8í­Ğ¾Ø2J$ac5ef29e-8484-4b20-8435-e9e37f64c63a
+r	java:S106K"+Replace this use of System.out by a logger.(Ú¸ ‰üÿÿÿÿ8í­Ğ¾Ø2J$151dcb3c-fc5b-408c-84ee-42e422cdb25b
+m	java:S106M"+Replace this use of System.out by a logger.(ôæô›8ï­Ğ¾Ø2J$91fd84d0-d918-4083-b7fb-32ea435ac80b
+ƒ	java:S125P"<This block of commented-out lines of code should be removed.(€ÈËÿÿÿÿÿ8ï­Ğ¾Ø2J$b7530965-3da4-42cf-8ee1-ffd3ece66afc
+m	java:S106W"+Replace this use of System.out by a logger.(êïü§8ï­Ğ¾Ø2J$9f16e658-c26a-4439-b87c-b7f405f12080
+r	java:S106\"+Replace this use of System.out by a logger.(ú€±…øÿÿÿÿ8ï­Ğ¾Ø2J$3e70a475-05c2-40d2-8eeb-148383fbddf1
+r	java:S106a"+Replace this use of System.out by a logger.(ø¤Åüÿÿÿÿ8ğ­Ğ¾Ø2J$31abbd40-9070-4959-be2e-a35ded6f7c31
+m	java:S106b"+Replace this use of System.out by a logger.(ÙÚÓ¶8ğ­Ğ¾Ø2J$eea3f10d-d78c-40b1-ac58-ccf6401559cb
+r	java:S106h"+Replace this use of System.out by a logger.(±…ñåıÿÿÿÿ8ğ­Ğ¾Ø2J$ccd44d47-e811-4f49-9862-14007fea40dc
+r	java:S106l"+Replace this use of System.out by a logger.(çĞãÅøÿÿÿÿ8ñ­Ğ¾Ø2J$9ac36c04-190b-4aef-b58e-99457e6b2472
+
+java:S1128"7Remove this unused import 'java.io.FilterOutputStream'.(ÉèÕôúÿÿÿÿ8ñ­Ğ¾Ø2J$624e6aaa-7ae2-4991-ae2d-c15e55083ebd

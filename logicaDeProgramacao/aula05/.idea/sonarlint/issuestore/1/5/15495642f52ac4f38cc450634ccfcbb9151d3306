@@ -1,0 +1,13 @@
+
+†
+java:S4165%"dRemove this useless assignment; "vetNum" already holds the assigned value along all execution paths.(îÓ­ëúÿÿÿÿ8Ä‰èØ2
+L
+java:S1197"*Move the array designators [] to the type.(ÈÇì¦ûÿÿÿÿ8 Ä‰èØ2
+G	java:S106
+"+Replace this use of System.out by a logger.(ïËâ©8¢Ä‰èØ2
+Z
+java:S1854"8Remove this useless assignment to local variable "nome".(’ ãÜüÿÿÿÿ8£Ä‰èØ2
+K
+java:S1481")Remove this unused "nome" local variable.(’ ãÜüÿÿÿÿ8¦Ä‰èØ2
+G	java:S106!"+Replace this use of System.out by a logger.(‚•§±8§Ä‰èØ2
+L	java:S106$"+Replace this use of System.out by a logger.(–º£”üÿÿÿÿ8§Ä‰èØ2

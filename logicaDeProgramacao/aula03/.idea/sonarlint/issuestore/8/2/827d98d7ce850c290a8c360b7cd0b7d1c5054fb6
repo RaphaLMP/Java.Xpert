@@ -1,0 +1,9 @@
+
+@
+java:S1659"#Declare "media" on a separate line.(ŠÍô8Û­¨£Ô2
+I
+java:S1659"'Declare "qtdAlunos" on a separate line.(õ‚²ßúÿÿÿÿ8Û­¨£Ô2
+G	java:S106"+Replace this use of System.out by a logger.(†¥Ùà8ß­¨£Ô2
+L	java:S106"+Replace this use of System.out by a logger.(×Œ–õùÿÿÿÿ8ß­¨£Ô2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÙÃø8á­¨£Ô2
+G	java:S106"+Replace this use of System.out by a logger.(Œ™óÓ8á­¨£Ô2

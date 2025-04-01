@@ -1,0 +1,96 @@
+
+˜
+java:S1192"PDefine a constant instead of duplicating this literal "em manutenÃ§Ã£o" 3 times.(×Ğá“øÿÿÿÿ8Ã—ÛæØ2J$421d90b8-4d24-4282-b55a-e5ff303f68b2
+”
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(üÉÂ8Å—ÛæØ2J$59ca8c2e-61e1-441b-ab22-843a2766dd3e
+”
+java:S1104"QMake senha a static final constant or non-public and provide accessors if needed.(üÉÂ8Å—ÛæØ2J$fa4d7aa8-e29d-44fc-ab91-eb9900dc19df
+–
+java:S1104"SMake apelido a static final constant or non-public and provide accessors if needed.(üÉÂ8Å—ÛæØ2J$374376ce-d9e5-4ff9-a072-8b89656842ec
+Ÿ
+java:S1104	"\Make equipamentoSerie a static final constant or non-public and provide accessors if needed.(Üş‹„8Å—ÛæØ2J$ea8f727d-8d86-4a83-87f4-9825d1172faf
+£
+java:S1104
+"`Make equipamentoDescricao a static final constant or non-public and provide accessors if needed.(¡Şèò8Å—ÛæØ2J$a9d49dd2-8e46-4d2e-912c-d705b26ed0ec
+ 
+java:S1104"]Make equipamentoStatus a static final constant or non-public and provide accessors if needed.(„¼éÎ8Å—ÛæØ2J$6c5cbfb6-84d3-43f7-b556-dc1da7d45ebb
+œ
+java:S1104"ZMake qtdEquipamento a static final constant or non-public and provide accessors if needed.( •Ú 8Å—ÛæØ2J$059f123d-e890-4480-aec7-6c628db41f17
+n
+java:S1444"+Make this "public static email" field final(üÉÂ8Æ—ÛæØ2J$7d600b2d-3bb2-4772-be3d-6a546cb00c07
+n
+java:S1444"+Make this "public static senha" field final(üÉÂ8Æ—ÛæØ2J$e15f2d93-3d37-4b66-b5eb-02dd835a16ce
+p
+java:S1444"-Make this "public static apelido" field final(üÉÂ8Æ—ÛæØ2J$6750d520-d516-41d1-8286-2b280c9cf92e
+y
+java:S1444	"6Make this "public static equipamentoSerie" field final(Üş‹„8Æ—ÛæØ2J$7301c9b0-36ff-4965-98b7-64fd4e3f1366
+}
+java:S1444
+":Make this "public static equipamentoDescricao" field final(¡Şèò8Æ—ÛæØ2J$ea80827f-4cd2-47e7-9b54-2db02c86ef08
+z
+java:S1444"7Make this "public static equipamentoStatus" field final(„¼éÎ8Æ—ÛæØ2J$3018bd6f-e9d4-440c-9025-5f65d2eb11bf
+v
+java:S1444"4Make this "public static qtdEquipamento" field final( •Ú 8Æ—ÛæØ2J$e4dc5e49-0a4f-4ad3-8078-fb064a64e8c9
+…
+java:S1659"BDeclare "senha" and all following declarations on a separate line.(üÉÂ8Ö—ÛæØ2J$484802b0-9d4c-488b-bb40-d24efc119421
+`
+java:S2386	"Make this member "protected".(Üş‹„8Ø—ÛæØ2J$3c3c7802-d29d-411e-aa52-ee0a599c1f6b
+`
+java:S2386
+"Make this member "protected".(¡Şèò8Ø—ÛæØ2J$66cc6d56-c2a2-4bd6-8c32-4f680444afb6
+`
+java:S2386"Make this member "protected".(„¼éÎ8Ø—ÛæØ2J$a9b8acea-49ab-4cc9-8fae-771afe17597a
+r	java:S106"+Replace this use of System.out by a logger.(Æü”şùÿÿÿÿ8ß—ÛæØ2J$c2e42516-639c-499e-80eb-85d1839e2188
+m	java:S106("+Replace this use of System.out by a logger.(©†âô8ß—ÛæØ2J$de0d4199-3b1a-48f2-b714-de948c5bd970
+r	java:S106,"+Replace this use of System.out by a logger.(›ÇÊåşÿÿÿÿ8à—ÛæØ2J$6a92ac3a-ca16-4fb0-aec0-e2c5f31dc52d
+r	java:S1060"+Replace this use of System.out by a logger.(¦— ‰üÿÿÿÿ8à—ÛæØ2J$dac0d200-8898-499d-8b1a-f2a59bdff33a
+r	java:S1068"+Replace this use of System.out by a logger.(¼ã¯¶ûÿÿÿÿ8à—ÛæØ2J$394e5a86-bb48-4aea-a1fe-c8667d5568f7
+m	java:S106;"+Replace this use of System.out by a logger.( „ğ…8á—ÛæØ2J$257947d0-367f-4679-a0c9-f9f87b331c7b
+m	java:S106="+Replace this use of System.out by a logger.(Ãúà¾8á—ÛæØ2J$40b287a6-9a3d-4a6a-8d49-7968f0d3a969
+m	java:S106?"+Replace this use of System.out by a logger.(Šíç†8á—ÛæØ2J$55949dc9-b746-4cb4-b42f-16b36f032df1
+m	java:S106B"+Replace this use of System.out by a logger.(‚¶úê8â—ÛæØ2J$9e224b65-1c4c-410e-a13f-85b21570317b
+l	java:S106H"+Replace this use of System.out by a logger.(“×út8â—ÛæØ2J$1b8c05f8-f88e-412a-b43a-1d1aaf053934
+m	java:S106I"+Replace this use of System.out by a logger.(’Áî8â—ÛæØ2J$11a2579a-f859-4a27-897c-f468ac1f135b
+m	java:S106J"+Replace this use of System.out by a logger.(š¿Õ‹8â—ÛæØ2J$b5258b5e-6d61-4c96-92ba-317e41d3974e
+r	java:S106K"+Replace this use of System.out by a logger.(ê¾±Ìüÿÿÿÿ8â—ÛæØ2J$bc29e0a3-68ae-4fb1-9cd3-e538fb04d1ca
+r	java:S106L"+Replace this use of System.out by a logger.(­ü™Áüÿÿÿÿ8å—ÛæØ2J$93be05b4-3f58-4d68-ba49-d763dcf7b9a3
+„
+java:S1854U"<Remove this useless assignment to local variable "telefone".(—í’ÿÿÿÿÿ8ã—ÛæØ2J$cdc41e2f-8baf-4675-b639-62b07f187726
+n
+java:S1659Q"&Declare "telefone" on a separate line.(ƒ¢Ú°ûÿÿÿÿ8ä—ÛæØ2J$55afd3e0-698f-4dcc-87b7-0489243e363b
+u
+java:S1481Q"-Remove this unused "telefone" local variable.(ƒ¢Ú°ûÿÿÿÿ8å—ÛæØ2J$fa1f39ad-a4e4-41ed-a8e7-0e1297147de6
+m	java:S106R"+Replace this use of System.out by a logger.(ŒĞæë8æ—ÛæØ2J$19a146f2-c341-48fc-bfa8-0a54478f8410
+m	java:S106T"+Replace this use of System.out by a logger.(ë÷ô¥8æ—ÛæØ2J$599af858-6768-48ec-b7d2-9a870b7bb9f0
+r	java:S106V"+Replace this use of System.out by a logger.(ª‚ÿäüÿÿÿÿ8æ—ÛæØ2J$c835a8e6-baeb-4b24-b0c1-98a95d255892
+m	java:S106X"+Replace this use of System.out by a logger.(Œøğà8æ—ÛæØ2J$4d893829-9710-435c-8274-3b1f4f31cc99
+m	java:S106Z"+Replace this use of System.out by a logger.(ªğ…¥8é—ÛæØ2J$c7ecb252-eeff-470e-9bde-9a54cc5d9dc7
+„
+java:S1126a"AReplace this if-then-else statement by a single return statement.(‡éñÌ8é—ÛæØ2J$27d9799a-d3dd-426d-ad73-fca9814da9fb
+r	java:S106i"+Replace this use of System.out by a logger.(¾“Ïôüÿÿÿÿ8ê—ÛæØ2J$7e13db8e-48ae-42ea-8a2d-f7dd67fcb5a7
+m	java:S106j"+Replace this use of System.out by a logger.(İàè8ê—ÛæØ2J$d9fbc124-73fd-459f-b4b1-08dbd368c025
+r	java:S106k"+Replace this use of System.out by a logger.(Á€²ïûÿÿÿÿ8ê—ÛæØ2J$d9923647-72a2-4b35-bac7-394b06ce2244
+r	java:S106l"+Replace this use of System.out by a logger.(äüÉ¸ûÿÿÿÿ8ê—ÛæØ2J$dcf58443-5b01-438e-b38d-13af4ac693e1
+m	java:S106m"+Replace this use of System.out by a logger.(€ü†´8ê—ÛæØ2J$fcc51817-17a8-49c3-9b4f-265990096257
+m	java:S106n"+Replace this use of System.out by a logger.(Œš±Å8ğ—ÛæØ2J$2ce41645-1682-4528-ab5f-e82403f704bc
+•
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ë—ÛæØ2J$b5863be5-6ea4-45ae-88fa-9fc9eb7c22fc
+m
+java:S1659s"*Declare "opcaoSubMenu" on a separate line.(ËúáÈ8ë—ÛæØ2J$13f84466-d862-4fd4-a3bc-e1d46e70367b
+s
+java:S1659t"+Declare "senhaDigitada" on a separate line.(Üßíßùÿÿÿÿ8ë—ÛæØ2J$958f2f05-0107-4b93-873c-27531123514d
+i	java:S131x""Add a default case to this switch.(†²·¹úÿÿÿÿ8ï—ÛæØ2J$f2a136cb-11ca-4563-ac37-9f9b384b6326
+d
+java:S6205y"Remove this redundant block.(ò÷Ñäÿÿÿÿÿ8ğ—ÛæØ2J$63508f78-f37f-4202-8b85-3c402fd83e84
+r	java:S106z"+Replace this use of System.out by a logger.(”êĞşÿÿÿÿ8ğ—ÛæØ2J$ff1ff2e0-3a0b-499f-af1f-fd895ee66e76
+m	java:S106}"+Replace this use of System.out by a logger.(÷ùÊÂ8ñ—ÛæØ2J$23c3ae58-5045-4f1a-b907-6c1a01194ea5
+r	java:S106~"+Replace this use of System.out by a logger.(ª‚ÿäüÿÿÿÿ8ñ—ÛæØ2J$ada5eb40-2852-4ff6-8dae-8e4d3d8eecd1
+n	java:S106€"+Replace this use of System.out by a logger.(Œøğà8ñ—ÛæØ2J$ee6a6af4-a2c6-41d7-9c7a-ffb564875623
+s	java:S106ƒ"+Replace this use of System.out by a logger.(õÁğßıÿÿÿÿ8ñ—ÛæØ2J$5ea77104-0c21-417c-a344-753e28e43320
+e	java:S131‡""Add a default case to this switch.(ÚøêŠ8ñ—ÛæØ2J$6a375a71-1a0d-4fa1-b95d-456f09538b18
+n	java:S106Š"+Replace this use of System.out by a logger.(èçî¸8ñ—ÛæØ2J$1b18dcff-3a53-403f-ae84-cf5e894ff3b1
+n	java:S106Œ"+Replace this use of System.out by a logger.(â©„8ñ—ÛæØ2J$d5b27de2-5444-46af-9fc2-8ab915062d9a
+n	java:S106"+Replace this use of System.out by a logger.(ª£Ô 8µİæØ2J$68e578bd-e741-490b-94d2-c35eefa1a0f8
+s	java:S106–"+Replace this use of System.out by a logger.(Ä°Ò¨ıÿÿÿÿ8¢˜õæØ2J$b5b1bc81-4860-49d9-8257-91b22e326946
+s	java:S106š"+Replace this use of System.out by a logger.(ºù°±úÿÿÿÿ8’çØ2J$15568f03-0110-4ba2-ae36-a1112478927b
+~	java:S125¨"<This block of commented-out lines of code should be removed.(º›˜n8ô—ÛæØ2J$24c68ba5-ad84-4230-8bcd-2bc216aa195c

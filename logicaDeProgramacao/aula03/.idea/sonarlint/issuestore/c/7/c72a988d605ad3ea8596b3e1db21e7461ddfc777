@@ -1,0 +1,19 @@
+
+k
+java:S1659"#Declare "valor" on a separate line.(«¡¨«ùÿÿÿÿ8§²¥Ô2J$59a5a244-486f-459a-b484-94546947e50a
+r	java:S106"+Replace this use of System.out by a logger.(ùÇ€èûÿÿÿÿ8®²¥Ô2J$ab4a9ffa-890f-47eb-929f-12e7a0b25873
+m	java:S106"+Replace this use of System.out by a logger.(ªÓ­8®²¥Ô2J$67e8f1f4-637d-42fe-afe6-60fb82a350f4
+u
+java:S6126"2Replace this String concatenation with Text block.(ªÓ­8®²¥Ô2J$4e8028d2-d55c-49fd-993a-07fa9adff261
+r	java:S106"+Replace this use of System.out by a logger.(ï†Éÿÿÿÿÿÿ8¯²¥Ô2J$3a4ee3c6-9efb-4764-b40e-5b8029704803
+r	java:S106"+Replace this use of System.out by a logger.(šã›ãúÿÿÿÿ8°²¥Ô2J$36010fc4-3e38-4b9c-a10c-310cd00cd0c9
+m	java:S106"+Replace this use of System.out by a logger.(ÎªÄÒ8¦‡¢¥Ô2J$69a197e4-1e2f-44ae-9e13-cb1eb207ead1
+r	java:S106#"+Replace this use of System.out by a logger.(®úó¼ùÿÿÿÿ8Áı£¥Ô2J$e05b862c-ce4b-4510-9c3b-d936c4da8056
+r	java:S106$"+Replace this use of System.out by a logger.(ˆÌÇûÿÿÿÿ8ãÏ¥¥Ô2J$a4ab6c93-f691-408c-b78c-9f8c2358b450
+_
+java:S6205("Remove this redundant block.(ÁŸò8ëã§¥Ô2J$fa7bc2f3-244c-43dd-ba56-cb9004838a54
+m	java:S106)"+Replace this use of System.out by a logger.(ØÄÃ‡8åÏ¥¥Ô2J$6d16a29a-a8c3-4d4b-a8df-4fd087f0cc67
+d
+java:S6205+"Remove this redundant block.(Çøÿÿÿÿÿ8¬Ø©¥Ô2J$1e39a911-cbae-47d0-adbb-4c0f4b6e6740
+m	java:S106,"+Replace this use of System.out by a logger.(Ø¹¾8ìã§¥Ô2J$538444e3-e662-471c-af41-3821fee5a9e0
+r	java:S106."+Replace this use of System.out by a logger.(şş¦üÿÿÿÿ8¬Ø©¥Ô2J$b96cc3e5-d229-4727-b750-554862b29454

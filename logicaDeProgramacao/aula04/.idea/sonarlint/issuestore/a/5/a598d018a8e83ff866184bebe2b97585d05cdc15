@@ -1,0 +1,20 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "soma".(À÷«ÿÿÿÿÿ8óòÓ’Ø2J$61aa461a-cdfe-467c-93d4-10851fcb1293
+‚
+java:S1854	":Remove this useless assignment to local variable "alunos".(şÛËøüÿÿÿÿ8ôòÓ’Ø2J$05bcacb2-b89f-4a71-a3b4-c6a75221b974
+{
+java:S1854"9Remove this useless assignment to local variable "nomes".(³ÕşG8ôòÓ’Ø2J$735fca0e-b7dd-4071-974f-df9bc5a41f00
+n
+java:S1481"&Remove this unused "x" local variable.(èé‹üûÿÿÿÿ8÷òÓ’Ø2J$63d8ae9c-002d-4f2f-a70d-85758e689658
+l
+java:S1481"*Remove this unused "nomes" local variable.(³ÕşG8øòÓ’Ø2J$60664266-0a71-4037-bb44-e11c334cf28e
+s
+java:S1481	"+Remove this unused "alunos" local variable.(şÛËøüÿÿÿÿ8øòÓ’Ø2J$aa1e69dd-6cc8-490a-b63f-0fe6f654c532
+r	java:S106"+Replace this use of System.out by a logger.(»ì“‰üÿÿÿÿ8ùòÓ’Ø2J$38a583ad-b60e-4aed-af22-486836671d2f
+q
+java:S1481")Remove this unused "soma" local variable.(À÷«ÿÿÿÿÿ8ùòÓ’Ø2J$4cda85d2-4f13-4fd9-ad0d-cc833ef00a6f
+r	java:S106"+Replace this use of System.out by a logger.(óÚ»‚øÿÿÿÿ8úòÓ’Ø2J$b232e69b-1aa2-4180-9a4c-0bf47eb8f1b2
+v
+java:S1481".Remove this unused "somaNotas" local variable.(Û•Àÿÿÿÿÿ8ûòÓ’Ø2J$2b4ab982-bd3e-4162-b84f-68597e040ee7
+m	java:S106"+Replace this use of System.out by a logger.(æ¬­ü8ûòÓ’Ø2J$1effdc31-7cc9-44de-beba-3016e815b30c
